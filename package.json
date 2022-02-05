@@ -1,0 +1,26 @@
+{
+  "name": "bip39-rn",
+  "version": "3.0.4",
+  "description": "Bitcoin BIP39: Mnemonic code for generating deterministic keys in React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsanbigzad/bip39-rn.git"
+  },
+  "keywords": [
+    "crypto",
+    "mnemonic",
+    "phrases",
+    "seed",
+    "bitcion"
+  ],
+  "author": "Ehsan Bigzad <ehsanbigzad7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehsanbigzad/bip39-rn/issues"
+  },
+  "homepage": "https://github.com/ehsanbigzad/bip39-rn#readme"
+}
